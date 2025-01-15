@@ -1,6 +1,6 @@
 {
-  "name": "Incrementã Mood Track",
-  "short_name": "Incrementã Mood Track",
+  "name": "Incrementã Mood Tracker",
+  "short_name": "Incrementã Mood Tracker",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2d2d2d",
