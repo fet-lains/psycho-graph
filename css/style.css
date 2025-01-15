@@ -26,22 +26,22 @@ body {
   /* colors */
   --alabaster: #fbfbfb;
   --alto: #cfcfcf;
-  --melrose: #afa0ff;
-  --mauve: #cfa0ff;
+  --carnation-pink: #ff9abf;
+  --cornflower-blue: #599ff4;
   --dove-gray: #6b6b6b;
   --dusty-gray: #959595;
+  --festival: #f9f871;
+  --goldenrod: #ffd36f;
+  --lavender-rose: #fd98e9;
+  --mauve: #cfa0ff;
   --mine-shaft: #2d2d2d;
+  --mona-lisa: #ffb091;
 
   /* color scheme */
   --text-primary: var(--alabaster);
   --text-secondary: var(--alto);
-  --text-dark: var(--dusty-gray);
-  --text-light: var(--alabaster);
-  --placeholder: var(--dusty-gray);
   --background: var(--mine-shaft);
-  --border: var(--dove-gray);
   --theme-color: var(--melrose);
-  --theme-color-hover: var(--mauve);
 
   /* Transitions */
   --anim-slow: 0.3s ease-in-out;
